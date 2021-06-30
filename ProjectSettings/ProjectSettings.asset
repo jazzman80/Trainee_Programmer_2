@@ -8,12 +8,12 @@ PlayerSettings:
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 0
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: '!Trainee_Programmer_2'
+  companyName: YODE
+  productName: Trainee_Programmer_2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -145,7 +145,8 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.YODE.Trainee_Programmer_2
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -546,7 +547,22 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: dUI_MANAGER;dUI_TextMeshPro
+    4: dUI_MANAGER;dUI_TextMeshPro
+    7: dUI_MANAGER;dUI_TextMeshPro
+    13: dUI_MANAGER;dUI_TextMeshPro
+    14: dUI_MANAGER;dUI_TextMeshPro
+    19: dUI_MANAGER;dUI_TextMeshPro
+    21: dUI_MANAGER;dUI_TextMeshPro
+    25: dUI_MANAGER;dUI_TextMeshPro
+    27: dUI_MANAGER;dUI_TextMeshPro
+    28: dUI_MANAGER;dUI_TextMeshPro
+    29: dUI_MANAGER;dUI_TextMeshPro
+    30: dUI_MANAGER;dUI_TextMeshPro
+    31: dUI_MANAGER;dUI_TextMeshPro
+    32: dUI_MANAGER;dUI_TextMeshPro
+    33: dUI_MANAGER;dUI_TextMeshPro
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
