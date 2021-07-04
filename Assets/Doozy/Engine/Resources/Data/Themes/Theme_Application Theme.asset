@@ -32,7 +32,9 @@ MonoBehaviour:
       SerializedGuid: 99f7b6a712ad63479d7f0994875e70aa
     Sprites: []
     Textures: []
-    Fonts: []
+    Fonts:
+    - m_font: {fileID: 12800000, guid: 94b79b1d826b9a341b3110a4bd5e1ed4, type: 3}
+      SerializedGuid: a2c9e214517ff74d9f522f787a9597cb
     FontAssets: []
   ColorLabels:
   - m_label: Primary
