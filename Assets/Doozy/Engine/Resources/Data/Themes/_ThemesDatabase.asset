@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: _ThemesDatabase
   m_EditorClassIdentifier: 
   ThemesNames:
+  - Application Theme
   - General
   Themes:
+  - {fileID: 11400000, guid: a0d1adbde229cc245ba940a298810776, type: 2}
   - {fileID: 11400000, guid: d8a07809241048d4ab9764d42bf133e8, type: 2}

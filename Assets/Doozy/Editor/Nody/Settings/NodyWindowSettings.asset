@@ -36,19 +36,40 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  CurrentGraph: {fileID: 0}
-  RecentlyOpenedGraphs: []
+  CurrentGraph: {fileID: 11400000, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  RecentlyOpenedGraphs:
+  - {fileID: 11400000, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
   CopiedNodes: []
-  DeletedNodes: []
+  DeletedNodes:
+  - {fileID: 3319842662449980572, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: 6384569928505968053, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: 5221630934908530474, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: -811750943205169432, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: -2929809985410555762, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: 3669815861984738671, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: 8577467960805768290, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: -6110713643893425916, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: 6328851055142403110, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: -4088543269442962302, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: 1732885362039626639, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: -8763929371553120381, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+  - {fileID: -1699389823182502723, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
   SelectedNodes: []
-  GraphTabs: []
-  CurrentView: 0
-  CurrentPanOffset: {x: 0, y: 0}
+  GraphTabs:
+  - IsRootTab: 1
+    Graph: {fileID: 11400000, guid: 4be88f3d208dff2469b24f00c1889690, type: 2}
+    SubGraphNode: {fileID: 0}
+    Zoom: 0.6
+    PanOffset: {x: 640, y: 318.30002}
+    SelectedNodes: []
+    DeletedNodes: []
+  CurrentView: 1
+  CurrentPanOffset: {x: 903.59644, y: 475.73276}
   DefaultPanOffset: {x: 0, y: 0}
   IsDirty: 0
   SaveCurrentGraphWithControlS: 1
   CurrentDotAnimationSpeed: 0.6
-  CurrentZoom: 1
+  CurrentZoom: 0.9
   DefaultDotAnimationSpeed: 0.6
   DefaultZoom: 1
   ShowNodeNotes: 1

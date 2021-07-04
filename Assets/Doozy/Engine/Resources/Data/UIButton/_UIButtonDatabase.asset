@@ -16,5 +16,7 @@ MonoBehaviour:
   CategoryNames:
   - Custom
   - General
+  - Application
   Categories:
+  - {fileID: 11400000, guid: df42c241efc8de6408f735fc8680cb7f, type: 2}
   - {fileID: 11400000, guid: 2847d763b696e0247bc3dbc2aaa241cd, type: 2}
